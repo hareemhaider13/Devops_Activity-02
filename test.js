@@ -1,7 +1,7 @@
 console.log('Running tests...');
 
 // Simulate test pass
-if (true) {
+if (false) {
   console.log('Tests passed');
   process.exit(0);
 } else {
